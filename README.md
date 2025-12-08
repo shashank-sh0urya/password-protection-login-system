@@ -35,7 +35,7 @@ sudo apt update
 sudo apt install libmicrohttpd-dev libssl-dev
 
 2. Clone the Repository
-git clone https://github.com/your-username/secure-login-system-c.git
+git clone https://github.com/shashank-sh0urya/secure-login-system-c.git
 cd secure-login-system-c
 
 3. Compile the Server
